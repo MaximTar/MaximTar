@@ -1,4 +1,7 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaximTar)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=MaximTar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
+
 
 <!--
 **MaximTar/MaximTar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
