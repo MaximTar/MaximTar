@@ -1,6 +1,14 @@
+
 <p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=MaximTar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=MaximTar&column=8&theme=onedark&no-frame=true"/>
 </p>
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=MaximTar&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximTar&layout=compact" />
+</div>
 
 
 <!--
